@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Joyful Bits 🤖`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Dave Shah`,
+      summary: `A Software Engineer, Product Developer, Distance Runner, Husband and Father 🤗.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Software Development, Running, and an exercise in sharing what I'm learning more often.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `daveshah`,
     },
   },
   plugins: [
@@ -60,8 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Joyful Bits`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

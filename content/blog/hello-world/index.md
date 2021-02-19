@@ -1,231 +1,36 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Hello World 👋
+date: "2021-02-18"
+description: "Time to explore!"
 ---
 
-This is my first post on my new fake blog! How exciting!
+I'm not sure how you've ended up here, but welcome 👋. This is my blog. My hope is that
+you'll find the content here at bare minimum useful and, at best, simultaneously entertaining.
 
-I'm sure I'll write a lot more interesting things in the future.
+Since this is my first post, I suppose I should tell you a little bit about myself.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+I'm Dave. 😃 ... I'm a runner, software engineer, product developer, and most importantly, a christian husband and father.
+There's a pretty good chance that any posts you'll find here relate to those aspects of my identity in some way.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+While most of the content I'll talk about will be tech related, my start in tech was a bit unconventional. Growing up, I had horrible grades, poor attendance, and retrospectively, consider my younger self as a pretty wild and untamed youth. Despite all of that, I went on to serve just shy of 6 years in the Marine Corps (Jan 2001 to Aug 2006). Those times weren't any less wild and I'm grateful to have learned so much so early in my life.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+Oddly, my technical identity was seeded in the Marine Corps. I served as an intelligence analyst, but had the additional responsibility of being the lead system administrator for my units' intelligence platform. The system was a hodge-podge of software sitting on top of a Solaris 8 based system with a Sybase DB. Much of that software was written in Java (Java 1.3) and was also accompanied by a collection of C programs and various korn shell and c shell scripts. It was one of those systems where executing `tar` actually involved tape. Good times 😂. 
 
-You can also write code blocks here!
+Funny thing - I was never into tech that much before the Corps. I joined the Corps for the challenge. In my teens, I'd gotten into whitewater kayaking, mountain biking, rock climbing, trail running... The Marine Corps seemed like the right option for a dirt bag kid like me with little direction outside of the next big adventure. After a few years of deploying overseas with my unit VMAQ-4, I eventually found myself stationed at a little naval base in Point Mugu, California working alongside several computer scientists and electrical engineers. Several conversations with them convinced me that my right path forward was getting a CSE degree and doing this sort of thing professionally. By then, I was a sergeant and staying in probably meant several role changes (and several more deployments). I enjoyed being a sergeant in the Marine Corps. I learned so much so quickly.  
 
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
+The Corps shaped the parts of my identity that taught me resiliency and have made me a relentless optimist.
 
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+In 2006, my wife and I got married and I began school full time at the University of Toledo studying Computer Science and Engineering. I tackled the 5 year program in 3 and some change, graduating Magnum Cum Laude. Again - I owe a lot of that to the Corps. I didn't have the discipline or interest to do that before the Corps.
 
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
-This is a paragraph.
+I'm going to skip over a lot of details about the teams I've been on, lessons I've learned, and ways I've grown until this point. I'm sure I could talk about them all now but I'd do so at the risk of making this post too long and boring and also at the risk of missing out on opportunities to follow this up with future posts (which these all could be).
 
-    This is a paragraph.
+In my current role, I'm a Staff Developer on the ScriptHero team at CoverMyMeds. My team is amazing. I continue to learn new things and because of that, continue to feel this sense of personal growth.
 
-# Header 1
+If you continue to follow along here, you'll likely find posts about Software Engineering, Product Development, Running, and maybe the occasional post about my faith and my family. I feel awkward stating faith and family last because in reality, those are more important to me than anything and are the foundation of my life. Those are more personal though - more private and I'd like to respect the privacy of my family and recognize the personal nature inherent in faith.
 
-## Header 2
+If you find yourself reading this or any other post I put out there and want to talk more about it, feel free to DM me on Twitter, LinkedIn, or (if you have my email address), email. I'd be happy to chat.
 
-    Header 1
-    ========
+~ Dave
 
-    Header 2
-    --------
 
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
-
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
->     Markdown.generate();
-
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
-
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
-
-- `code goes` here in this line
-- **bold** goes here
-
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
-
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-
-```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-```
-
-1. `code goes` here in this line
-1. **bold** goes here
-
-```markdown
-1. `code goes` here in this line
-1. **bold** goes here
-```
-
-Paragraph:
-
-    Code
-
-<!-- -->
-
-    Paragraph:
-
-        Code
-
----
-
----
-
----
-
----
-
----
-
-    * * *
-
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
-This paragraph has some `code` in it.
-
-    This paragraph has some `code` in it.
-
-![Alt Text](https://placehold.it/200x50 "Image Title")
-
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
