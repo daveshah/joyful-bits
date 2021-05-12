@@ -35,6 +35,8 @@ As you can see, it's a pretty simple pattern and it's definitely saved me more t
 
 If you use a SQL client / editor that supports any sort of canned templates when you open your editor - this one may come in handy 😁
 
+Special thanks to my teammate Dan Meehan for the inspiration to finally blog about this. Dan wanted to run an approach by me this afternoon and I ended up sharing this story with him for the first time. Doing so reminded me that this is one of those small but potentially helpful things that I keep on sharing in verbal form but haven't taken the time to write down yet. Now it's here so I can stop repeating myself 🤣 
+
 I hope this helps!  
 
 ~ Dave
