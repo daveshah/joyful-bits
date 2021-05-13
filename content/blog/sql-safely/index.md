@@ -25,7 +25,7 @@ Instead of *arrange*, it begins with *inspect* - inspecting the state of the exi
 It's followed by *act* - the action you intend to take. This is often that `INSERT` or `UPDATE` statement you've written (that thing that feels risky in production)!
 Finally, we *assert* (really just another inspect). This will often be another `SELECT` statement where we can assert that our action in the previous section had the intended outcome.
 
-The part of this pattern that I love most: This is tis all wrapped within a transaction that's **rolled back**.
+The part of this pattern that I love most: This is all wrapped within a transaction that's **rolled back**.
 
 This is the part that helps in providing that warm and fuzzy feeling you might be seeking out before just running your SQL in production. 
 
