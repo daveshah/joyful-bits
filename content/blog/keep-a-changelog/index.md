@@ -3,7 +3,7 @@ title: Keep a Changelog
 date: "2021-03-13"
 ---
 
-If you’r a developer, I’m assuming you’re familiar with a concept of a [changelog]([Keep a Changelog](https://keepachangelog.com/en/1.0.0/))
+If you’re a developer, I’m assuming you’re familiar with a concept of a [changelog]([Keep a Changelog](https://keepachangelog.com/en/1.0.0/))
 
 `A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.`
 

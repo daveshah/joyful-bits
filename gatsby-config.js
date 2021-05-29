@@ -3,7 +3,7 @@ module.exports = {
     title: `Joyful Bits 🤖`,
     author: {
       name: `Dave Shah`,
-      summary: `A Software Engineer, Product Developer, Distance Runner, Husband and Father 🤗.`,
+      summary: `A Husband, Father, Software Engineer, Product Developer, Distance Runner, and most importantly, loving Christian.`,
     },
     description: `Software Development, Running, and an exercise in sharing what I'm learning more often.`,
     siteUrl: `https://www.madewithjoyfulbits.com/`,
