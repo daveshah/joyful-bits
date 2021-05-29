@@ -6,7 +6,7 @@ module.exports = {
       summary: `A Software Engineer, Product Developer, Distance Runner, Husband and Father 🤗.`,
     },
     description: `Software Development, Running, and an exercise in sharing what I'm learning more often.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://www.madewithjoyfulbits.com/`,
     social: {
       twitter: `daveshah`,
     },
