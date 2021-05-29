@@ -5,16 +5,17 @@ date: "2021-05-29"
 
 I’m very grateful and very blessed to have had a great spring. I’ve trained with a great crew that helped build me up and helped me run faster than I could have going it alone. It felt good to be the “old man” in the group but still feel as fast and as fit as others a decade+ younger than I am 🤣
 
-This springs’ hard work paid off in Toledo. [I PR’d with a time of 2:50:28.91](https://runsignup.com/Race/Results/22766/IndividualResult/LzFZ?resultSetId=250218#U17002798) (26.2 miles at a 6:30 pace). That feels good.
-
-![](../../assets/toledo-marathon2.jpg)
-
-I went in lighthearted and with a sense of humor: wearing [jorts](https://www.boausa.com/products/mens-stretch-1-elite-printed-split-run-short-jorts) and a Flannel for the LOL’s. My buddy Matt and our friend Blake did the same and since both Blake and I PR’d, I’m now convinced that jorts give you a competitive advantage 🤣. (We’ll have to run a few more races to confirm).
+This springs’ hard work paid off in Toledo. I went into the marathon lighthearted and with a sense of humor: wearing [jorts](https://www.boausa.com/products/mens-stretch-1-elite-printed-split-run-short-jorts) and a Flannel for the LOL’s. My buddy Matt and our friend Blake did the same and since both Blake and I had strong runs, I’m now convinced that jorts give you a competitive advantage 🤣. (We’ll have to run a few more races to confirm).
 
 ![](../../assets/toledo-marathon1.jpg)
 
+Like I mentioned - the hard work and great support paid off. [I PR’d with a time of 2:50:28.91](https://runsignup.com/Race/Results/22766/IndividualResult/LzFZ?resultSetId=250218#U17002798) (26.2 miles at a 6:30 pace). That feels good.
 
-I’d planned on taking a few days off after the Marathon since I’d had so few off days in my training cycle. Instead, I let my mind get the best of my body and I only took 1 day off before I was out there again. 
+![](../../assets/toledo-marathon2.jpg)
+
+
+
+I’d planned on taking a few days off after the Marathon since I’d had so few days off in my training cycle. Instead, I let my mind get the best of my body and I only took 1 day off before I was out there again. 
 
 ![](../../assets/no-rest.png)
 
