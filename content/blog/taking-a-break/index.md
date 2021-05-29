@@ -1,5 +1,5 @@
 ---
-title: Taking a break 🦴
+title: "Taking a break 🦴"
 date: "2021-05-29"
 ---
 
