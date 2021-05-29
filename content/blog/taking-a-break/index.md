@@ -22,7 +22,7 @@ This was probably my biggest mistake. I’d made it as far as I had with little 
 
 When we rest we rebuild. 
 
-### Still going "strong"
+### Still feeling strong
 Skip forward a few weeks:
 I’m still feeling strong. I’ve got some minor aches and pains, but I’ve been chocking those up to the usual aches and pains that come with running fast and running far.
 
@@ -51,7 +51,7 @@ I didn’t take enough time to grow and rebuild. I always felt like I was learni
 
 In the end, I broke and broke hard. 
 
-### The Deep Thoughts
+### Reflecting on it all
 The funny thing is - I was probably always breaking a little. We all are. When we put hard work into something, it takes something out of us. It breaks us just a little. If we’re smart about it, we can break just a little at a time, rest, recover, learn, rebuild, and grow. In doing so, we come out stronger than when we started. Breaking is inevitable. The trick is paying enough attention so that the breaks are small and we’ve granted ourselves enough time to recover, rebuild, and toughen.
 
 **When we don’t listen, don’t pay attention, or don’t grant ourselves the time, the breaks are bigger.**
