@@ -2,7 +2,7 @@
 title: "Alice, Bob, and Charlie - Context Matters"
 date: "2021-05-30"
 ---
-Nearly a decade ago I had lunch with the founder of (IMO) a very successful company. We talked all things software and tech from programming languages to practices and patterns. We’ll call this founder “M”. As M and I talked about patterns and software methodologies, M shared a story with me about 3 characters, Alice, Bob, and Charlie:
+Nearly a decade ago I had lunch with the founder of (IMO) a very successful company. We talked all things software and tech from programming languages to practices and patterns. We’ll call this founder “M.Z.”. As M.Z. and I talked about patterns and software methodologies, M.Z. shared a story with me about 3 characters, Alice, Bob, and Charlie:
 
 ---
 
@@ -43,7 +43,7 @@ To Charlie, Alice didn’t have all of the process in place to make this truly s
 
 ---
 
-The point M. Was trying to make was - **context matters**. There aren’t any patterns or processes that guarantee you’ll get the results you want all the time every time. Sure, there are things that work in certain contexts, but out of context, they might not. Even worse, out of context, they could lead to negative results instead of positive ones.
+The point M.Z. Was trying to make was - **context matters**. There aren’t any patterns or processes that guarantee you’ll get the results you want all the time every time. Sure, there are things that work in certain contexts, but out of context, they might not. Even worse, out of context, they could lead to negative results instead of positive ones.
 
 I agree.
 
