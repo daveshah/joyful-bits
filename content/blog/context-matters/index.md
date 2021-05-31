@@ -43,7 +43,7 @@ To Charlie, Alice didn’t have all of the process in place to make this truly s
 
 ---
 
-The point M. Was trying to make was - **context matters**. There’s aren’t any patterns or processes that guarantee you’ll get the results you want all the time every time. Sure, there are things that work in certain contexts, but out of context, they might not. Even worse, out of context, they could lead to negative results instead of positive ones.
+The point M. Was trying to make was - **context matters**. There aren’t any patterns or processes that guarantee you’ll get the results you want all the time every time. Sure, there are things that work in certain contexts, but out of context, they might not. Even worse, out of context, they could lead to negative results instead of positive ones.
 
 I agree.
 
